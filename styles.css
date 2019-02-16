@@ -1,0 +1,37 @@
+body {
+  background-color: #B0BC57;
+  text-align: center;
+}
+
+col-lg {
+  text-align: left;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.flink {
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #B0BC57;
+}
+
+img {
+  padding-top: 10px;
+  padding-bottom: 60px
+}
